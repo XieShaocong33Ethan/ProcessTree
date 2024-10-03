@@ -62,6 +62,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## Commercial usage
+
+I want this project to be as widely accessible as possible, while still funding my development costs. Research and personal use are always allowed without restriction. However, commercial use is subject to certain limitations.
+
+If you are interested in using this project for commercial purposes, please contact me to discuss licensing terms.
+
 ## License
 
 This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
