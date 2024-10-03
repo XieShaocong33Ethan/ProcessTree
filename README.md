@@ -3,7 +3,7 @@
 A desktop application for creating, editing, and managing decision trees with Markdown content support.
 
 ![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)
-![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)
+![Python](https://img.shields.io/badge/python-3.12%2B-blue.svg)
 ![PySide6](https://img.shields.io/badge/PySide6-6.0%2B-brightgreen.svg)
 
 ## Features
@@ -48,7 +48,7 @@ Ensure you have Python 3.12 or higher installed on your system.
 
 This project uses:
 
-- Python 3.7+
+- Python 3.12+
 - PySide6 (Qt for Python)
 - SQLite (for data storage)
 
