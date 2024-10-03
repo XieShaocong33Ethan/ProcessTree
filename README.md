@@ -1,4 +1,4 @@
-# Decision Tree Knowledge Management System
+# Process Tree Knowledge Management System
 
 A desktop application for creating, editing, and managing decision trees with Markdown content support.
 
