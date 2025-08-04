@@ -72,12 +72,6 @@ If you are interested in using this project for commercial purposes, please cont
 
 This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-[@Email] - as11877@163.com
-
-Project Link: [https://github.com/yourusername/decision-tree-manager](https://github.com/yourusername/decision-tree-manager)
-
 ## Acknowledgements
 
 - [PySide6](https://wiki.qt.io/Qt_for_Python)
